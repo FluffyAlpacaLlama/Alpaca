@@ -31,6 +31,10 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	background-image:url("avatar.jpg");
+        background-repeat:no-repeat;
+        background-size: cover
+	
 }
 
 ol, ul {
